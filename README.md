@@ -305,7 +305,7 @@ public class MainActivity extends AppCompatActivity {
 
 <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/ba6a2785-9978-4f63-aee7-ba77b8d42fc9" />
 <img width="1913" height="1077" alt="Screenshot 2026-05-27 220524" src="https://github.com/user-attachments/assets/b448bddd-57c4-4941-9561-50e2b58b3fe9" />
-<img width="1913" height="1077" alt="Screenshot 2026-05-27 220524" src="https://github.com/user-attachments/assets/3ce4ff8c-7691-4f97-a62f-98d0a9202e88" />
+<img width="1918" height="1078" alt="Screenshot 2026-05-27 220431" src="https://github.com/user-attachments/assets/9bd1fa02-8887-422c-ae2c-e30da0b5eef4" />
 <img width="1917" height="1078" alt="Screenshot 2026-05-27 220640" src="https://github.com/user-attachments/assets/1ffea10d-1095-4d9a-a3e3-86b8bee7998f" />
 
 
